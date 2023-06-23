@@ -1,2 +1,2 @@
-# prelims-quants
-Resources for Oxford University's course on Introductory Probability and Statistics ('Quants').
+# oxford-ppe-prelims
+Anki decks on Oxford University's Philosophy, Politics and Economics course.
